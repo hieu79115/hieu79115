@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 4th-year Computer Science student at Ho Chi Minh University of Education
+- 🎓 4th-year Information Technology student at Ho Chi Minh University of Education (HCMUE)
 - ⚛️ Passionate about building modern, responsive web applications with React
 - 🌐 Portfolio showcasing my work: [nguyenphucthinh.vercel.app](https://nguyenphucthinh.vercel.app/)
 - 💡 Interests: frontend development, modern web frameworks, and clean UI/UX design
@@ -28,7 +28,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -40,14 +39,13 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat)
 
 ### Databases
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
 ### Protocols & APIs
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat)
 ![HTTP](https://img.shields.io/badge/-HTTP-005C97?style=flat)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)
 
 ---
 
