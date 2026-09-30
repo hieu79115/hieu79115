@@ -81,52 +81,6 @@ Built the public HSK exam registration system, currently in production at [hsk.h
 
 ---
 
-## Featured Projects
-
-### [URL Shortener Platform](https://shortener-omega.vercel.app/)
-
-**Side project · September 2026**
-
-A fullstack URL shortening and link management platform with click analytics, QR code generation, and tag categorization.
-
-**Tech stack:** React, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query, Zustand, Recharts, Spring Boot, Spring Security, Spring Data JPA, Redis, PostgreSQL, Docker, JUnit 5
-
-- Built a responsive SPA with client state management using Zustand and server-state caching with TanStack Query
-- Created an analytics dashboard for click trends, device breakdowns, browser distributions, and operating system statistics using Recharts
-- Implemented custom aliases, link expiration, QR code export, debounced search, tag filtering, and pagination
-- Added JWT authentication with refresh token rotation, Redis token blacklisting, Axios interceptors, request queueing, and rate-limit handling
-- Optimized redirects with Redis caching and asynchronous click tracking
-- Added unit tests with JUnit 5 and Mockito
-
-### Evaluation & Survey Platform
-
-**Team of 4 · May 2026 – August 2026**
-
-A web platform for digitizing annual faculty and staff performance evaluations and student feedback surveys at HCMUE, replacing paper-based workflows.
-
-**Tech stack:** React, TypeScript, Material UI, Node.js, Express.js, MySQL, node-cron
-
-- Developed APIs and interfaces for dynamic form creation, editing, and survey duplication
-- Implemented hierarchical criteria trees, score limits, and MySQL transactions for data integrity
-- Built reviewer assignment and role-based permission management features
-- Created evaluation interfaces with automatic score calculation, evidence previews for PDFs and images, and input validation
-- Developed organization unit and staff account management modules
-- Scheduled cron jobs to automatically update survey statuses
-
-### Spa Management System
-
-**Team of 5 · April 2024 – August 2024**
-
-A comprehensive management system for spa products, services, appointments, shifts, orders, and vouchers.
-
-**Tech stack:** Vite, React, TypeScript, Redux Toolkit, Ant Design, Tailwind CSS, Chart.js, Axios
-
-- Designed and implemented responsive interfaces with TypeScript
-- Collaborated with the team through GitLab and Jira
-- Translated requirements into a shippable product under mentorship
-
----
-
 ## Education
 
 ### Ho Chi Minh City University of Education
